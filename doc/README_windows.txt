@@ -1,8 +1,9 @@
-Dogecoin 0.6 BETA
+Tayyipcoin 0.2.1 BETA
 
 Copyright (c) 2009-2012 Bitcoin Developers
 Copyright (c) 2011-2012 Litecoin Developers
 Copyright (c) 2013 Dogecoin Developers
+Copyright (c) 2013-2021 Tayyipcoin Developers
 
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
