@@ -3,11 +3,11 @@
 ![TayyipCoin](http://i.imgur.com/kslOB5d.png)
 
 ## What is Tayyipcoin? 
-Tayyipcoin is revolution, and ideas are bulletproof.
+Tayyipcoin is revolution, and ideas are bulletproof. 
 
 ## License 
 Tayyipcoin is released under the terms of the MIT license. See [COPYING](COPYING)
-for more information or see http://opensource.org/licenses/MIT.
+for more information or see http://opensource.org/licenses/MIT. Forked from Dogecoin 0.6.3 at 2013, updated according to Dogecoin 1.4-archive at 2021.
 
 ## Development and contributions 
 We don't learn, how to develop this coin, from you.
