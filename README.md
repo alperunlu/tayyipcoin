@@ -24,7 +24,7 @@ Because, as a world leader; Recep Tayyip Erdogan is our last hope to save his co
 Equals world population.
 For 2015; total of 7,3 billion(UN DESA est.)++ much coins 
 
-![ComingSoon2](http://www.akpgercegi.com/wp-content/recep_tayyip_erdogan_akp2.jpg)
+![ComingSoon2](https://i.imgur.com/0b3Xx7I.png)
 
 ### How get RTE?
 Scrypt Proof of Work
@@ -45,7 +45,7 @@ Block Rewards:
 
 500,001 - 600,000: 1,111 Tayyipcoin Reward
 
-600,000+ — 2 Reward (flat)
+600,000+ — 666 Reward (flat)
 
 ### Paper Wallets
 ![PaperTayyip](http://i.imgur.com/U1alPzN.jpg)
